@@ -1,0 +1,13 @@
+Source: lxde-locale-sl
+Section: desktop
+Priority: optional
+Maintainer: dz0ny <janez.troha@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://github.com/ubuntu-si/lxde-locale-sl
+
+Package: lxde-locale-sl
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Installs lxde-locale-sl.
+ Installs Slovenian transaltions for LXDE.
