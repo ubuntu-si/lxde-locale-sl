@@ -1,5 +1,5 @@
 Source: lxde-locale-sl
-Section: desktop
+Section: x11
 Priority: optional
 Maintainer: dz0ny <janez.troha@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
